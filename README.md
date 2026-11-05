@@ -21,7 +21,7 @@ Tujuan proyek ini adalah membangun model klasifikasi untuk memprediksi **kualita
 ├── model_wine_quality.pkl                # Model Extra Trees yang sudah dilatih
 ├── data_training.csv                     # Data latih (857 baris)
 ├── data_testing.csv                      # Data uji tanpa label (286 baris)
-├── hasilprediksi_3digitNIMterakhir.csv   # Template format hasil prediksi dari dosen
+├── hasilprediksi_3digitNIMterakhir.csv   # Template format hasil prediksi
 └── README.md
 ```
 
