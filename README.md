@@ -108,7 +108,3 @@ Id;Quality
 ## Teknologi
 
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, dan joblib.
-
-## Sumber Data
-
-Dataset Wine Quality (anggur merah dan putih) yang disediakan oleh dosen pengampu: <https://bit.ly/datasetwine>
